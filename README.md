@@ -1,4 +1,8 @@
 ### Hi there 👋
+I’m currently working on project regarding security  
+🌱 I’m currently pursuing B.TECH  
+👯 I’m looking to collaborate on companies  
+💬 Ask me about my coding skills  
 
 <!--
 **bhavana-0902/bhavana-0902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
