@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently working on project regarding security  
+I’m currently working on some projects 
 🌱 I’m currently pursuing B.TECH  
 👯 I’m looking to collaborate on companies  
 💬 Ask me about my coding skills  
