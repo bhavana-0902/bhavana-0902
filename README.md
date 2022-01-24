@@ -1,9 +1,5 @@
-### Hi there 👋
-I’m currently working on some projects 
-🌱 I’m currently pursuing B.TECH  
-👯 I’m looking to collaborate on companies  
-💬 Ask me about my coding skills  
-
+ Hi I am Bhavana👋
+A Computer Science Student with good programming skills and communication skills
 <!--
 **bhavana-0902/bhavana-0902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
